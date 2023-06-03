@@ -1,5 +1,10 @@
 # Telebust
 ### Telegram Mass Group Adder, Group Scrapper and Mass User Messaging.
+#### Features
+* Download all the members from a telegram group into a CSV file.
+* Send message to every member in your saved CSV file. 
+* Add all the members in your CSV file to a specified group. 
+
 
 ## Setup
 ### Download Repository
