@@ -8,7 +8,7 @@
 
 ## Setup
 ### Download Repository
-* `$ git clone https://github.com/tristanh00/telebust.git`
+* `$ git clone https://github.com/n3tn1nja/telebust.git`
 * `$ cd telebust`
 
 ### Create API Credentials 
